@@ -58,7 +58,7 @@
 ## 🚀 I'm are always open to your feedback.  Please contact as bellow information
 ![](https://i.imgur.com/waxVImv.png)
 # **[Contact ]**
-* [Name: nho Luong]
+* [Name: Nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
