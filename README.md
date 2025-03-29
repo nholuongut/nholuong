@@ -33,7 +33,6 @@
 - [Github Repositories](https://github.com/nholuongut?tab=repositories)
 
 # **About Me🇻🇳**
-![](About-Me.gif)
 - ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
 - ✍️ Blogger
@@ -41,6 +40,16 @@
 - ⚽ Football player
 - 📫 How to reach me: luongutnho@hotmail.com
 - 😄 Pronouns: Mr. Nho Luong
+
+# **Project Architecture Overviews🇻🇳**
+![](ArchitectureOverview.png)
+
+# **DevSecOps Orchestrator Overviews🇻🇳**
+![](DevOpsServices.png)
+
+# **Pipeline FullflowO Overviews🇻🇳**
+![](PipelineFullflow.png)
+
 
 # **My Projects**🇻🇳
 ![](https://i.imgur.com/waxVImv.png)
