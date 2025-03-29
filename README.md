@@ -47,7 +47,7 @@
 # **DevSecOps Orchestrator Overviews🇻🇳**
 ![](DevOpsServices.png)
 
-# **Pipeline FullflowO Overviews🇻🇳**
+# **Pipeline Fullflow Overviews🇻🇳**
 ![](PipelineFullflow.png)
 
 
