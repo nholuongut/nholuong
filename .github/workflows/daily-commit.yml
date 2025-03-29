@@ -23,5 +23,5 @@ jobs:
           git config user.name "nholuongut"
           git config user.email "luongutnho.dxc@gmail.com"
           git add .
-          git commit -m "Daily update" || echo "No changes to commit"
+          git commit -m "Daily update" || echo "Update to commit"
           git push
