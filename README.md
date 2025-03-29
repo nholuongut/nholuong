@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-<h3 align="center"><strong>I'm focused on automation && cloud technologies</strong></h3>
+<h3 align="center"><strong>I'm focused on automation && security && cloud technologies</strong></h3>
 
 - I'm an experienced **DevOps Engineer** with a strong background in both on-premises and cloud platforms (Azure, AWS, GCP and DigitalOcean), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
 - I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
