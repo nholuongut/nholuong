@@ -2,24 +2,30 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
-  workflow_dispatch:      # allows manual run from Actions tab
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Update file
-        run: |
-          echo "Updated on $(date)" >> daily.txt
+        run: echo "Updated on $(date)" >> daily.txt
 
       - name: Commit & Push
         run: |
-          git config --global user.name 'nholuongut'
-          git config --global user.email 'luongutnho@hotmail.com'
+          git config user.name "nholuongut"
+          git config user.email "luongutnho@hotmail.com"
           git add .
           git commit -m "Daily update" || echo "No changes to commit"
           git push
+        env:
+          GIT_AUTHOR_NAME: github-actions
+          GIT_AUTHOR_EMAIL: github-actions@github.com
+          GIT_COMMITTER_NAME: github-actions
+          GIT_COMMITTER_EMAIL: github-actions@github.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
