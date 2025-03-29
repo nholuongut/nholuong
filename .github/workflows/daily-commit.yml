@@ -3,6 +3,7 @@ name: Daily Commit
 on:
   schedule:
     - cron: '0 0 * * *'  # every day at midnight UTC
+  workflow_dispatch:      # allows manual run from Actions tab
 
 jobs:
   build:
@@ -20,5 +21,5 @@ jobs:
           git config --global user.name 'nholuongut'
           git config --global user.email 'luongutnho@hotmail.com'
           git add .
-          git commit -m "Daily update"
+          git commit -m "Daily update" || echo "No changes to commit"
           git push
