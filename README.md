@@ -2,14 +2,22 @@
 ### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 <br/>
 
-<h1 align="center">I am Nho Luong💁‍♂️, Ho Chi Minh City🕍, Vietnam🇻🇳🇻🇳🇻🇳🇻🇳</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong)](https://git.io/typing-svg)
 
-<h3 align="center"><strong>DevOps Engineer focused on automation and cloud technologies for efficiency</strong></h3>
+[![NhoLuong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![NhoLuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)](https://git.io/streak-stats)
+
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-## **Hi there** 🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳👋,
+<h3 align="center"><strong>I'm focused on automation && cloud technologies</strong></h3>
 
 - I'm an experienced **DevOps Engineer** with a strong background in both on-premises and cloud platforms (Azure, AWS, GCP and DigitalOcean), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
 - I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
