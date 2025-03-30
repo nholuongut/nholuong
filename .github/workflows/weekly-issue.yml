@@ -1,3 +1,10 @@
+name: 🗓️ Weekly Issue
+
+on:
+  schedule:
+    - cron: '0 10 * * 1'  # Every Monday at 10:00 UTC
+  workflow_dispatch:
+
 jobs:
   open-issue:
     runs-on: ubuntu-latest
