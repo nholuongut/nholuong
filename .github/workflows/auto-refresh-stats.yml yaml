@@ -20,5 +20,4 @@ jobs:
         run: |
           git config --global user.name "nholuongut"
           git config --global user.email "luongutnho.dxc@gmail.com"
-          git commit -am "chore: auto-refresh GitHub stats"
-          git push
+          git diff --quiet && echo "No changes to commit" || (git commit -am "chore: auto-refresh GitHub stats" && git push)

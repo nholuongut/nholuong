@@ -1,4 +1,4 @@
-name: Update GitHub Profile Stats
+name: 📈 Update GitHub Profile Stats
 
 on:
   schedule:
@@ -8,16 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
+      - uses: actions/checkout@v3
+
       - name: Update GitHub Profile README
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            console.log("Triggering profile update by touching README.md");
             const fs = require('fs');
             const path = './README.md';
             const content = fs.readFileSync(path, 'utf8');
-            const updated = content.replace(/<!-- auto-refresh -->.*<!-- \/auto-refresh -->/s, `<!-- auto-refresh -->\nLast refresh: ${new Date().toISOString()}\n<!-- /auto-refresh -->`);
+            const updated = content.replace(
+              /<!-- auto-refresh -->.*<!-- \/auto-refresh -->/s,
+              `<!-- auto-refresh -->\nLast refresh: ${new Date().toISOString()}\n<!-- /auto-refresh -->`
+            );
             fs.writeFileSync(path, updated);
