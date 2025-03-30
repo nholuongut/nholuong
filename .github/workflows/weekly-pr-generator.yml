@@ -23,8 +23,7 @@ jobs:
           commit-message: "chore: 🧹 Weekly contribution"
           title: "chore: 🧹 Weekly contribution"
           body: |
-            This PR was auto-generated to keep activity alive 🚀  
-            🗓️ Date: $(date +'%Y-%m-%d')  
-            💬 Keep contributing — you're doing great!
+            This PR was auto-generated to boost activity 🚀  
+            🗓️ Date: $(date +'%Y-%m-%d')
           branch: weekly-boost-${{ github.run_id }}
           delete-branch: true
