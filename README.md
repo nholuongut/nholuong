@@ -30,6 +30,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🧠 GitHub A+ Auto Stats
+
+<p align="center">
+  <img src="./metrics.svg" alt="Nho Luong GitHub Stats" />
+</p>
+
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 ### 🔭 I’m currently working on🇻

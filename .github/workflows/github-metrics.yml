@@ -1,4 +1,4 @@
-name: 📊 Auto GitHub A+ Stats
+name: 📊 GitHub Metrics
 
 on:
   schedule:
@@ -9,18 +9,16 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 📥 Generate GitHub Metrics SVG
+      - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: nholuongut
-          template: classic
+          filename: metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Ho_Chi_Minh
-          config_twemoji: yes
           plugin_lines: yes
-          plugin_traffic: yes
+          plugin_isocalendar: yes
           plugin_languages: yes
           plugin_followup: yes
-          plugin_isocalendar: yes
+          plugin_traffic: yes
