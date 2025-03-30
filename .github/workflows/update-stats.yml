@@ -1,28 +1,39 @@
-name: Update GitHub Stats
+name: 📊 Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at 00:00 UTC
-  workflow_dispatch: # allows manual trigger
+    - cron: '0 0 * * *'  # Every day at 00:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats SVG
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: nholuongut
-          include_all_commits: true
-          count_private: true
-          show_icons: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download GitHub Stats SVG
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&count_private=true&include_all_commits=true"
+
+      - name: Update README with new stats
+        run: |
+          if grep -q "<!-- STATS-START -->" README.md; then
+            awk '/<!-- STATS-START -->/{print;exit}' README.md > new_readme.md
+            cat stats.svg >> new_readme.md
+            awk '/<!-- STATS-END -->/{p=1}p' README.md >> new_readme.md
+            mv new_readme.md README.md
+          else
+            echo -e "<!-- STATS-START -->\n" > README.md
+            cat stats.svg >> README.md
+            echo -e "\n<!-- STATS-END -->" >> README.md
+          fi
 
       - name: Commit & Push updated README
         run: |
-          git config --global user.email "luongutnho.dxc@gmail.com"
           git config --global user.name "nholuongut"
+          git config --global user.email "luongutnho.dxc@gmail.com"
           git add README.md
           git commit -m "chore: update GitHub stats"
-          git push
+          git push || echo "No changes to commit"
