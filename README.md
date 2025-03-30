@@ -31,8 +31,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub Grade Card](https://raw.githubusercontent.com/nholuongut/nholuongut/main/.github/assets/github-grade-card.svg)
-
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 ### 🔭 I’m currently working on🇻
