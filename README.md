@@ -133,6 +133,9 @@
 Last refresh: 2025-03-30T00:00:00Z
 <!-- /auto-refresh -->
 
+<!-- STATS-START -->
+<!-- STATS-END -->
+
 ![](https://i.imgur.com/waxVImv.png)
 ![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
