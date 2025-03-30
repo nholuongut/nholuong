@@ -1,0 +1,26 @@
+name: 📊 Auto GitHub A+ Stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # every day at 01:00 UTC
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Generate GitHub Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: nholuongut
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          config_twemoji: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_isocalendar: yes
