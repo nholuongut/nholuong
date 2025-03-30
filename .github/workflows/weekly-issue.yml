@@ -1,0 +1,19 @@
+name: Weekly Issue
+
+on:
+  schedule:
+    - cron: '0 10 * * 1' # Every Monday at 10:00 UTC
+  workflow_dispatch:
+
+jobs:
+  open-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create weekly issue
+        uses: dacbd/create-issue-action@v2
+        with:
+          title: "Weekly Check-In: $(date +'%B %d, %Y')"
+          body: |
+            This is your automatic weekly issue to track contributions.
+            - [ ] Comment something!
+            - [ ] Close when done.

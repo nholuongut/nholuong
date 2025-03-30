@@ -22,13 +22,13 @@
 - I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
 - Ask me **about DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
 
-[![NhoLuong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![NhoLuong github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![NhoLuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
+![NhoLuong GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)
+![NhoLuong GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![NhoLuong trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
