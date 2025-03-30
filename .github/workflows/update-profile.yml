@@ -1,0 +1,23 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Runs every day at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Update GitHub Profile README
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            console.log("Triggering profile update by touching README.md");
+            const fs = require('fs');
+            const path = './README.md';
+            const content = fs.readFileSync(path, 'utf8');
+            const updated = content.replace(/<!-- auto-refresh -->.*<!-- \/auto-refresh -->/s, `<!-- auto-refresh -->\nLast refresh: ${new Date().toISOString()}\n<!-- /auto-refresh -->`);
+            fs.writeFileSync(path, updated);
