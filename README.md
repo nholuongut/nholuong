@@ -4,34 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
 
-[![NhoLuong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![NhoLuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
-
-## <h3 align="center"><strong>I'm focused on automation & system & security & cloud technologies</strong></h3>
-
-- I'm an experienced **DevOps Engineer** with a strong background in both on-premises and cloud platforms (Azure, AWS, GCP and DigitalOcean), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
-- I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
-- Ask me **about DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
-
-### 🔭 I’m currently working on🇻🇳
-- [Microservices Reference Implementation](https://github.com/nholuongut/microservices-reference-implementation)
-- [Azure Terraform Infrastructure](https://github.com/nholuongut/azure-terraform-infrastructure)
-- [AWS Terraform Infrastructure](https://github.com/nholuongut/terraform-aws-modules)
-- [Ansible Automation Platform](https://github.com/nholuongut/azure-terraform-infrastructure)
-### 🌱 I’m currently Pratices on 🇻🇳
-- [Devops Exercises](https://github.com/nholuongut/devops-exercises)
-### 📝 I regularly write articles on 🇻🇳
-- [Github Repositories](https://github.com/nholuongut?tab=repositories)
-
 # **About Me🇻🇳**
 - ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
@@ -41,21 +13,54 @@
 - 📫 How to reach me: luongutnho@hotmail.com
 - 😄 Pronouns: Mr. Nho Luong
 
-# **Project Architecture Overviews🇻🇳**
+![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
+
+## <h2 align="center"><strong>I'm focused on automation & system & security & cloud technologies</strong></h2>
+
+- I'm an experienced **DevOps Engineer** with a strong background in both on-premises and cloud platforms (Azure, AWS, GCP and DigitalOcean), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
+- I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
+- Ask me **about DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
+
+[![NhoLuong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![NhoLuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
+
+[![NhoLuong's GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![GitHub Grade Card](https://raw.githubusercontent.com/nholuongut/nholuongut/main/.github/assets/github-grade-card.svg)
+
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+### 🔭 I’m currently working on🇻
+- [Microservices Reference Implementation](https://github.com/nholuongut/microservices-reference-implementation)
+- [Azure Terraform Infrastructure](https://github.com/nholuongut/azure-terraform-infrastructure)
+- [AWS Terraform Infrastructure](https://github.com/nholuongut/terraform-aws-modules)
+- [Ansible Automation Platform](https://github.com/nholuongut/azure-terraform-infrastructure)
+### 🌱 I’m currently Pratices on 🇻
+- [Devops Exercises](https://github.com/nholuongut/devops-exercises)
+### 📝 I regularly write articles on 🇻
+- [Github Repositories](https://github.com/nholuongut?tab=repositories)
+
+# **Project Architecture Overviews🇻**
+![](https://i.imgur.com/waxVImv.png)
 ![](ArchitectureOverview.png)
 
-# **DevSecOps Orchestrator Overviews🇻🇳**
+# **DevSecOps Orchestrator Overviews🇻**
+![](https://i.imgur.com/waxVImv.png)
 ![](DevOpsServices.png)
 
-# **Pipeline Fullflow Overviews🇻🇳**
+# **Pipeline Fullflow Overviews🇻**
+![](https://i.imgur.com/waxVImv.png)
 ![](PipelineFullflow.png)
 
-
-# **My Projects**🇻🇳
-![](https://i.imgur.com/waxVImv.png)
--  🚀 My Github Repositories [**GitHub Repositories**](https://github.com/nholuongut?tab=repositories) for a central DevOps learning and practical with all my projects.
-- 🏗️ Below are my highlight repositories🇻🇳:
-   - ➡️ [**devops-basics**](https://github.com/nholuongut/devops-basics): 🚀 Practical and document place for DevOps skill.
+# **My Projects**🇻
+-  My Github Repositories [**GitHub Repositories**](https://github.com/nholuongut?tab=repositories) for a central DevOps learning and practical with all my projects.
+- 🏗️ Below are my highlight repositories🇻:
+   - ➡️ [**devops-basics**](https://github.com/nholuongut/devops-basics): Practical and document place for DevOps skill.
    - ➡️ [**devops-toolkit**](https://github.com/nholuongut/devops-toolkit): Container image for an all-in-one DevOps environment with popular tools
    - ➡️ [**devops-notes**](https://github.com/nholuongut/devops-notes): This is my DevOps stack public repositories on github.
    - ➡️ [**devsecops-demos**](https://github.com/nholuongut/devsecops-demos): A DevSecOps integrating security into the DevOps Process 
@@ -63,12 +68,12 @@
    - ➡️ [**local-env**](https://github.com/nholuongut/local-env): LocalEnv - Local Containerized Environment supports various languages.
    - ➡️ [**kubernetes-labs**](https://github.com/nholuongut/kubernetes-labs): Kubernetes deployment samples, practices and examples.
    - ➡️ [**cmd**](https://github.com/nholuongut/cli-commands-reference): A bookmark for my daily used command line 
-- 👀 Checkout my full repositories landscape 🇻🇳➡️ [**here**](https://github.com/nholuongut?tab=repositories) 🚀
+- 👀 Checkout my full repositories landscape 🇻➡️ [**here**](https://github.com/nholuongut?tab=repositories)
    - ➡️ [**microservices-deployment**](https://github.com/nholuongut/microservices-deployment-sample): Sample microservices deployment on k8s with proxy, monitoring and logging features.
    - ➡️ [**azure-services-learning-resources**](https://github.com/nholuongut/azure-services-learning-resources): 📚 Collection of Azure Services documentation and learning resources.
    - ➡️ [**aws-hub-repository-docs**](https://github.com/nholuongut/aws-hub-repository-docs): 📚 Collection of AWS Services documentation and learning resources.
 
-<h1 align="left">Languages and Tools🇻🇳:</h1>
+<h1 align="left">Languages and Tools🇻:</h1>
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -116,9 +121,9 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
-## 🚀 I'm are always open to your feedback🇻🇳
 ![](https://i.imgur.com/waxVImv.png)
-# **[Contact Me🇻🇳]**
+# I'm are always open to your feedback🚀
+# **[Contact Me🇻]**
 * [Name: Nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
@@ -126,10 +131,9 @@
 * [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [WhatsApp](+84983630781)
 * [Email Address](luongutnho@hotmail.com)
-
+![](https://i.imgur.com/waxVImv.png)
 ![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
-![](https://i.imgur.com/waxVImv.png)
-# License🇻🇳
+# License🇻
 * Nho Luong (c). All Rights Reserved.🌟
