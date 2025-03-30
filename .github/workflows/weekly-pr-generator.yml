@@ -1,30 +1,72 @@
-name: 🖁️ Auto Weekly PR Generator
+name: 🔁 Auto Weekly PR Generator
 
 on:
   schedule:
-    - cron: '0 3 * * 1' # Every Monday 3AM UTC
+    - cron: '0 3 * * 1'  # Every Monday at 3 AM UTC
   workflow_dispatch:
 
 jobs:
   pr:
     runs-on: ubuntu-latest
+    outputs:
+      branch: ${{ steps.set-branch.outputs.branch }}
 
     steps:
-      - name: 📥 Checkout repository
+      - name: 📥 Checkout repo
         uses: actions/checkout@v3
 
-      - name: 📋 Create dummy file
-        run: |
-          echo "🤖 Weekly auto PR - $(date)" >> weekly-boost.md
+      - name: 🔀 Set branch name
+        id: set-branch
+        run: echo "branch=weekly-boost-${{ github.run_id }}" >> $GITHUB_OUTPUT
 
-      - name: 🚀 Create Pull Request
+      - name: ✍️ Create weekly quote markdown
+        run: |
+          sudo apt-get update && sudo apt-get install -y jq
+          curl -s https://api.quotable.io/random -o quote.json || echo '{"content":"Keep shipping.","author":"GitHub Actions"}' > quote.json
+          quote=$(jq -r '.content + " — " + .author' quote.json)
+
+          echo "🤖 Weekly DevOps Quote - $(date):" > weekly-boost.md
+          echo "" >> weekly-boost.md
+          echo "$quote" >> weekly-boost.md
+
+      - name: 🚀 Create PR
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore: 🧹 Weekly contribution"
           title: "chore: 🧹 Weekly contribution"
           body: |
-            This PR was auto-generated to boost activity 🚀
-            🗓️ Date: $(date +'%Y-%m-%d')
-          branch: weekly-boost-${{ github.run_id }}
-          delete-branch: true
+            This PR was auto-generated to boost activity 🚀  
+            🗓️ Date: ${{ github.event.repository.updated_at }}
+          branch: ${{ steps.set-branch.outputs.branch }}
+          delete-branch: false
+
+  auto-merge:
+    needs: pr
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🔍 Find PR number by branch name
+        id: find-pr
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          result-encoding: string
+          script: |
+            const { data: prs } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              head: `${context.repo.owner}:${needs.pr.outputs.branch}`
+            });
+
+            if (!prs.length) throw new Error("❌ No PR found for branch: " + `${needs.pr.outputs.branch}`);
+            return prs[0].number;
+
+      - name: 🔁 Enable auto-merge
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.request('PUT /repos/${{ github.repository }}/pulls/${{ steps.find-pr.outputs.result }}/auto-merge', {
+              merge_method: 'squash'
+            });
