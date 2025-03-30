@@ -31,6 +31,8 @@ jobs:
       - name: 🚀 Create PR
         uses: peter-evans/create-pull-request@v5
         with:
+          commit-message: "chore: 🧹 Weekly contribution"
           title: "chore: 🧹 Weekly contribution"
           body: "This PR was auto-generated to boost activity. Keep rocking 🚀"
           branch: ${{ env.BRANCH_NAME }}
+          delete-branch: true
