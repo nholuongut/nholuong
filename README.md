@@ -6,8 +6,8 @@
 
 # **About Me🇻🇳**
 - ✍️ Blogger
-- ♾️ DevOps Engineer
 - ⚽ Football player
+- ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
 - 😄 Pronouns: Mr. Nho Luong
 - 📚 Always learning something new
