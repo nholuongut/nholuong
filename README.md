@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
 
 # **About Me🇻🇳**
-- ♾️ DevOps Engineer
-- ⭐ Open-source Contributor
 - ✍️ Blogger
-- 📚 Always learning something new
+- ♾️ DevOps Engineer
 - ⚽ Football player
-- 📫 How to reach me: luongutnho@hotmail.com
+- ⭐ Open-source Contributor
 - 😄 Pronouns: Mr. Nho Luong
+- 📚 Always learning something new
+- 📫 How to reach me: luongutnho@hotmail.com
 
 ![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
