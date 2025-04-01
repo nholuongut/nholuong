@@ -2,28 +2,38 @@ name: 🛡️ Daily GitHub Grade Tracker
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual run
 
 jobs:
   track:
     runs-on: ubuntu-latest
+
     steps:
       - name: 📥 Clone your repo
         uses: actions/checkout@v3
 
       - name: 📊 Generate badge + score
         run: |
+          echo "Fetching user stats..."
           curl -s https://api.github.com/users/nholuongut | jq '.public_repos, .followers, .following'
-          
+
           mkdir -p .github/assets
 
+          # Simulated GitHub Grade Badge (replace with real logic later if needed)
           echo "![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge)" > .github/assets/badge.md
 
-      - name: 🔁 Commit badge
+      - name: 🔁 Commit badge (only if changed)
         run: |
           git config --global user.name "nholuongut"
           git config --global user.email "luongutnho.dxc@gmail.com"
+
           git add .github/assets/badge.md
-          git commit -m "🚀 Auto-update badge.md"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "🟢 No changes to commit. Skipping push."
+          else
+            echo "🚀 Changes detected, committing..."
+            git commit -m "🚀 Auto-update badge.md"
+            git push
+          fi
