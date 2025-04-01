@@ -71,9 +71,6 @@
    - ➡️ [**aws-hub-repository-docs**](https://github.com/nholuongut/aws-hub-repository-docs): 📚 Collection of AWS Services documentation and learning resources.
 
 <h1 align="left">Languages and Tools🇻:</h1>
-<!-- ALL-TOPICS-LIST:START -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <center>
 <table>
   <tr>
@@ -114,9 +111,6 @@
   </tr>
 </table>
 </center>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-TOPICS-LIST:END -->
 
 ![](https://i.imgur.com/waxVImv.png)
 # I'm are always open to your feedback🚀
@@ -129,17 +123,9 @@
 * [WhatsApp](+84983630781)
 * [Email Address](luongutnho@hotmail.com)
 
-<!-- auto-refresh -->
-Last refresh: 2025-03-30T00:00:00Z
-<!-- /auto-refresh -->
-
-<!-- STATS-START -->
-<!-- STATS-END -->
-
 ![](https://i.imgur.com/waxVImv.png)
 ![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
-
 
 # License🇻
 * Nho Luong (c). All Rights Reserved.🌟
