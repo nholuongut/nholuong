@@ -6,11 +6,11 @@
 
 # **About Me🇻🇳**
 - ✍️ Blogger
-- ⚽ Football player
+- ⚽ Football Player
 - ♾️ DevOps Engineer
 - ⭐ Open-source Contributor
 - 😄 Pronouns: Mr. Nho Luong
-- 📚 Always learning something new
+- 📚 Lifelong Learner | Always exploring something new
 - 📫 How to reach me: luongutnho@hotmail.com
 
 ![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
@@ -116,12 +116,10 @@
 # I'm are always open to your feedback🚀
 # **[Contact Me🇻]**
 * [Name: Nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
-* [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
+* [Telegram](+84983630781)
 * [WhatsApp](+84983630781)
-* [Email Address](luongutnho@hotmail.com)
+* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
 
 ![](https://i.imgur.com/waxVImv.png)
 ![](Donate.png)
