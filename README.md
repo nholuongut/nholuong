@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
 
-# **About Me🇻**
+# **About Me**
 - ✍️ Blogger
 - ⚽ Football Player
 - ♾️ DevOps Engineer
@@ -32,31 +32,31 @@
 
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-### 🔭 I’m currently working on🇻
+### 🔭 I’m currently working on:
 - [Microservices Reference Implementation](https://github.com/nholuongut/microservices-reference-implementation)
 - [Azure Terraform Infrastructure](https://github.com/nholuongut/azure-terraform-infrastructure)
 - [AWS Terraform Infrastructure](https://github.com/nholuongut/terraform-aws-modules)
 - [Ansible Automation Platform](https://github.com/nholuongut/azure-terraform-infrastructure)
-### 🌱 I’m currently Pratices on 🇻
+### 🌱 I’m currently Pratice on:
 - [Devops Exercises](https://github.com/nholuongut/devops-exercises)
-### 📝 I regularly write articles on 🇻
+### 📝 I regularly write articles
 - [Github Repositories](https://github.com/nholuongut?tab=repositories)
 
-# **Project Architecture Overviews🇻**
+# **Project Architecture Overviews**
 ![](https://i.imgur.com/waxVImv.png)
 ![](ArchitectureOverview.png)
 
-# **DevSecOps Orchestrator Overviews🇻**
+# **DevSecOps Orchestrator Overviews**
 ![](https://i.imgur.com/waxVImv.png)
 ![](DevOpsServices.png)
 
-# **Pipeline Fullflow Overviews🇻**
+# **Pipeline Fullflow Overviews**
 ![](https://i.imgur.com/waxVImv.png)
 ![](PipelineFullflow.png)
 
-# **My Projects**🇻
+# **My Projects**
 -  My Github Repositories [**GitHub Repositories**](https://github.com/nholuongut?tab=repositories) for a central DevOps learning and practical with all my projects.
-- 🏗️ Below are my highlight repositories🇻:
+- 🏗️ Below are my highlight repositories:
    - ➡️ [**devops-basics**](https://github.com/nholuongut/devops-basics): Practical and document place for DevOps skill.
    - ➡️ [**devops-toolkit**](https://github.com/nholuongut/devops-toolkit): Container image for an all-in-one DevOps environment with popular tools
    - ➡️ [**devops-notes**](https://github.com/nholuongut/devops-notes): This is my DevOps stack public repositories on github.
@@ -65,12 +65,12 @@
    - ➡️ [**local-env**](https://github.com/nholuongut/local-env): LocalEnv - Local Containerized Environment supports various languages.
    - ➡️ [**kubernetes-labs**](https://github.com/nholuongut/kubernetes-labs): Kubernetes deployment samples, practices and examples.
    - ➡️ [**cmd**](https://github.com/nholuongut/cli-commands-reference): A bookmark for my daily used command line 
-- 👀 Checkout my full repositories landscape 🇻➡️ [**here**](https://github.com/nholuongut?tab=repositories)
+- 👀 Checkout my full repositories landscape ➡️ [**here**](https://github.com/nholuongut?tab=repositories)
    - ➡️ [**microservices-deployment**](https://github.com/nholuongut/microservices-deployment-sample): Sample microservices deployment on k8s with proxy, monitoring and logging features.
    - ➡️ [**azure-services-learning-resources**](https://github.com/nholuongut/azure-services-learning-resources): 📚 Collection of Azure Services documentation and learning resources.
    - ➡️ [**aws-hub-repository-docs**](https://github.com/nholuongut/aws-hub-repository-docs): 📚 Collection of AWS Services documentation and learning resources.
 
-<h1 align="left">Languages and Tools🇻:</h1>
+<h1 align="left">Languages and Tools:</h1>
 <center>
 <table>
   <tr>
@@ -113,8 +113,8 @@
 </center>
 
 ![](https://i.imgur.com/waxVImv.png)
-# I'm are always open to your feedback🚀
-# **[Contact Me🇻]**
+# I'm always open to your feedback🚀
+# **[Contact Me]**
 * [Name: Nho Luong]
 * [Telegram](+84983630781)
 * [WhatsApp](+84983630781)
@@ -125,5 +125,5 @@
 ![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
-# License🇻
+# License
 * Nho Luong (c). All Rights Reserved.🌟
