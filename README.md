@@ -16,7 +16,7 @@
 ![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-## <h2 align="center"><strong>Top skills as • DevOps & DevSecOps with CI/CD Pipelines • Cloud Management • Cloud Security • Microsoft Azure • Amazon Web Services • Google Cloud Platform </strong></h2>
+## <h2 align="center"><strong>Expert in DevOps/DevSecOps • CI/CD • Cloud Management • Security • Azure • AWS • GCP </strong></h2>
 
 I am a highly accomplished Senior DevOps Engineer with over 16 years of experience in IT infrastructure, system and network engineering, and more than 10 years in IT project management. My expertise spans the full spectrum of DevOps, DevSecOps, and Cloud Engineering, specializing in building automated, secure, and highly available infrastructures.
 
