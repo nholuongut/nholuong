@@ -18,7 +18,7 @@
 
 ## <h2 align="center"><strong>Expert in DevOps/DevSecOps • CI/CD • Cloud Management • Security • Azure • AWS • GCP </strong></h2>
 
-I am a results-driven Senior DevOps & DevSecOps Engineer with over 10 years of experience in IT infrastructure and over a decade leading cloud-based and on-premise DevOps transformations. My core strengths lie in CI/CD pipeline automation, cloud infrastructure management, and security-first DevSecOps practices.
+I am a results-driven DevOps Engineer Lead with over 10 years of experience in IT infrastructure and over a decade leading cloud-based and on-premise DevOps transformations. My core strengths lie in CI/CD pipeline automation, cloud infrastructure management, and security-first DevSecOps practices.
 
 I specialize in designing and implementing scalable, secure, and resilient systems across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP). With hands-on expertise in cloud governance, infrastructure as code (IaC), and continuous delivery, I help organizations modernize operations, improve deployment velocity, and enforce security compliance at scale.
 
