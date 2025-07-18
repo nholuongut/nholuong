@@ -18,9 +18,23 @@
 
 ## <h2 align="center"><strong>I'm focused on automation & system & security & cloud technologies</strong></h2>
 
-- I'm an experienced **DevOps Engineer** with a strong background in both on-premises and cloud platforms (Azure, AWS, GCP and DigitalOcean), CI/CD implementation, and infrastructure automation. Skilled in IaC, containerization, Kubernetes, and various DevOps tools.
-- I keep contributing to various **open-source** projects and building DevOps repositories for everyone to explore, learn, practice and work on DevOps efficency.
-- Ask me **about DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
+I am a highly accomplished Senior DevOps Engineer with over 16 years of experience in IT infrastructure, system and network engineering, and more than 10 years in IT project management. My expertise spans the full spectrum of DevOps, DevSecOps, and Cloud Engineering, specializing in building automated, secure, and highly available infrastructures.
+
+I bring deep technical proficiency in cloud platforms (Azure, AWS, GCP), infrastructure as code (Terraform, ARM templates, Bicep), CI/CD automation (Azure DevOps, GitLab CI/CD, Jenkins), and container orchestration using Kubernetes and Docker. I'm well-versed in implementing security best practices, monitoring solutions (Prometheus, Grafana), and supporting microservices-based application lifecycles with tools like Helm, GitOps, and service mesh technologies.
+
+My background includes hands-on leadership in building scalable architectures, leading DevOps transformation, implementing cloud governance, and supporting development teams with seamless deployment workflows. I’m also experienced in full-stack technologies (Node.js, React Native, Drupal, Symfony), databases (MySQL, PostgreSQL, Redis, Firebase), and security protocols (OAuth2, JWT, HTTPS/TLS).
+
+I hold multiple certifications across Google Cloud, AWS, and Microsoft Azure, including:
+• Google Cloud: Professional DevOps Engineer, Associate Cloud Engineer
+• AWS: Solutions Architect (Pro/Associate), DevOps Pro, Security Specialty
+• Azure: Solutions Architect Expert, DevOps Expert, Administrator Associate, Fundamentals
+
+I am passionate about solving complex challenges with automation, fostering a strong DevOps culture, and continuously improving system reliability, security, and delivery speed.
+
+Top skillsTop skills
+• DevOps & DevSecOps with CI/CD Pipelines • Cloud Management • Cloud Security • Microsoft Azure • Amazon Web Services (AWS) • Google Cloud Platform (GCP) 
+
+Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Microsoft Azure), Docker, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
 
 [![NhoLuong github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
