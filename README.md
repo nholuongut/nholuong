@@ -16,7 +16,8 @@
 ![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
-## <h2 align="center"><strong>I'm focused on automation & system & security & cloud technologies</strong></h2>
+## <h2 align="center"><strong>Top skills as DevOps & DevSecOps with CI/CD Pipelines • Cloud Management • Cloud Security • Microsoft Azure • Amazon Web Services (AWS) • Google Cloud Platform (GCP)</strong></h2>
+## <h2 align="center"><strong>Top skills as DevOps & DevSecOps with CI/CD Pipelines • Cloud Management • Cloud Security </strong></h2>
 
 I am a highly accomplished Senior DevOps Engineer with over 16 years of experience in IT infrastructure, system and network engineering, and more than 10 years in IT project management. My expertise spans the full spectrum of DevOps, DevSecOps, and Cloud Engineering, specializing in building automated, secure, and highly available infrastructures.
 
@@ -30,9 +31,6 @@ I hold multiple certifications across Google Cloud, AWS, and Microsoft Azure, in
 • Azure: Solutions Architect Expert, DevOps Expert, Administrator Associate, Fundamentals
 
 I am passionate about solving complex challenges with automation, fostering a strong DevOps culture, and continuously improving system reliability, security, and delivery speed.
-
-Top skillsTop skills
-• DevOps & DevSecOps with CI/CD Pipelines • Cloud Management • Cloud Security • Microsoft Azure • Amazon Web Services (AWS) • Google Cloud Platform (GCP) 
 
 Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Microsoft Azure), Docker, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
 
