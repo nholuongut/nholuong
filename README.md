@@ -37,12 +37,17 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 ### 🔭 I’m currently working on🇻
-- [Microservices Reference Implementation](https://github.com/nholuongut/microservices-reference-implementation)
-- [Azure Terraform Infrastructure](https://github.com/nholuongut/azure-terraform-infrastructure)
-- [AWS Terraform Infrastructure](https://github.com/nholuongut/terraform-aws-modules)
-- [Ansible Automation Platform](https://github.com/nholuongut/azure-terraform-infrastructure)
+- [MLOps - Machine Learning Operations](https://github.com/nholuongut/MLOps-references)
+- [GenAIOps-project-template](https://github.com/nholuongut/GenAIOps-project-template)
+- [Deep Learning tutorials](https://github.com/nholuongut/Deep-Learning-tutorials)
+- [All In One LLMS](https://github.com/nholuongut/all-in-one-llm)
+- [Azure AI ](https://github.com/Azure/enterprise-azureai)
+
 ### 🌱 I’m currently Pratices on 🇻
-- [Devops Exercises](https://github.com/nholuongut/devops-exercises)
+- [Generative AI Operations Solution Accelerator](https://github.com/nholuongut/GenAIOps)
+- [Azure ML Service and Azure DevOps](https://github.com/nholuongut/DevOpsForAI)
+- [AI application using Azure](https://github.com/nholuongut/AI-application-with-DevOps)
+
 ### 📝 I regularly write articles on 🇻
 - [Github Repositories](https://github.com/nholuongut?tab=repositories)
 
