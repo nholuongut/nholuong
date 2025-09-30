@@ -48,15 +48,15 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 
 # **Project Architecture Overviews🇻**
 ![](https://i.imgur.com/waxVImv.png)
-![](ArchitectureOverview.png)
+![](images/ArchitectureOverview.png)
 
 # **DevSecOps Orchestrator Overviews🇻**
 ![](https://i.imgur.com/waxVImv.png)
-![](DevOpsServices.png)
+![](images/DevOpsServices.png)
 
 # **Pipeline Fullflow Overviews🇻**
 ![](https://i.imgur.com/waxVImv.png)
-![](PipelineFullflow.png)
+![](images/PipelineFullflow.png)
 
 # **My Projects**🇻
 -  My Github Repositories [**GitHub Repositories**](https://github.com/nholuongut?tab=repositories) for a central DevOps learning and practical with all my projects.
