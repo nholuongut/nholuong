@@ -49,7 +49,7 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 - [AI application using Azure](https://github.com/nholuongut/AI-application-with-DevOps)
 
 ### 📝 I regularly write articles on 🇻
-- [Github Repositories](https://github.com/nholuongut?tab=repositories)
+- [My Linkedin Recent Activity](https://www.linkedin.com/in/nholuong/recent-activity/all/)
 
 # **Project Architecture Overviews🇻**
 ![](https://i.imgur.com/waxVImv.png)
