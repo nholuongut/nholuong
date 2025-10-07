@@ -125,8 +125,8 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 # I'm are always open to your feedback🚀
 # **[Contact Me🇻]**
 * [Name: Nho Luong]
-* [Telegram](+84983630781)
-* [WhatsApp](+84983630781)
+* [Telegram]([+84983630781](https://t.me/nholuongut))
+* [WhatsApp]([+84983630781](https://wa.me/84983630781))
 * [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 
