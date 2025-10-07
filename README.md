@@ -126,7 +126,7 @@ Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Mi
 # **[Contact Me🇻]**
 * [Name: Nho Luong]
 * [Telegram](https://t.me/nholuongut)
-* [WhatsApp](https://t.me/nholuongut)
+* [WhatsApp](https://wa.me/84983630781)
 * [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 
