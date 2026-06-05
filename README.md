@@ -4,52 +4,38 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
 
-# **About Me🇻**
-- ✍️ Blogger
-- ⚽ Football Player
-- ♾️ DevOps Engineer
-- ⭐ Open-source Contributor
-- 😄 Pronouns: Mr. Nho Luong
-- 📚 Lifelong Learner | Always exploring something new
-- 📫 How to reach me: luongutnho@hotmail.com
+# 🚀 About Me
+- ✍️ **Blogger**: Sharing insights on DevOps & Cloud.
+- ♾️ **DevOps Engineer Lead**: Transforming infrastructure with IaC & CI/CD.
+- ⭐ **Open-source Contributor**: Passionate about building community tools.
+- 📚 **Lifelong Learner**: Exploring AI-Ops, Cloud Native, and Security.
+  
+### 📊 GitHub Performance
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-2,831-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Current_Streak-434-blue?style=for-the-badge&logo=github" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/GitHub_Grade-A%2B-blueviolet?style=for-the-badge&logo=github" alt="GitHub Grade" />
+</p>
 
-![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
+I am a results-driven **DevOps Engineer Lead** with over 10+ years of experience in IT infrastructure and cloud transformations. My focus is on designing scalable, secure, and resilient systems across **DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Microsoft Azure), Docker, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
 
-## <h2 align="center"><strong>Expert in DevOps/DevSecOps • CI/CD • Cloud Management • Security • Azure • AWS • GCP </strong></h2>
-
-I am a results-driven DevOps Engineer Lead with over 10 years of experience in IT infrastructure and over a decade leading cloud-based and on-premise DevOps transformations. My core strengths lie in CI/CD pipeline automation, cloud infrastructure management, and security-first DevSecOps practices.
-
-I specialize in designing and implementing scalable, secure, and resilient systems across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP). With hands-on expertise in cloud governance, infrastructure as code (IaC), and continuous delivery, I help organizations modernize operations, improve deployment velocity, and enforce security compliance at scale.
-
-My approach blends deep technical knowledge with strategic planning to deliver robust DevOps pipelines, ensure cloud-native security, and empower teams through automation, monitoring, and self-service tooling.
-
-Ask me **about DevOps & DevSecOps with CI/CD Pipelines, Cloud Computing (AWS, Microsoft Azure), Docker, Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language).**
+> *"Automating the Future, Securing the Infrastructure"*
 
 [![NhoLuong github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nholuongut&bg_color=01117&color=C6E5B1&line=C6E5B1&point=C6E5B1&area_color=98e3bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![NhoLuong GitHub Stats](https://github-readme-stats.vercel.app/api?username=nholuongut&show_icons=true&theme=tokyonight)
-
-![NhoLuong GitHub Streak](https://streak-stats.demolab.com?user=nholuongut&theme=tokyonight)
-
-[![NhoLuong trophy](https://github-profile-trophy.vercel.app/?username=nholuongut&theme=darkhub&exclude=reviews&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-### 🔭 I’m currently working on🇻
-- [MLOps - Machine Learning Operations](https://github.com/nholuongut/MLOps-references)
-- [GenAIOps-project-template](https://github.com/nholuongut/GenAIOps-project-template)
-- [Deep Learning tutorials](https://github.com/nholuongut/Deep-Learning-tutorials)
-- [All In One LLMS](https://github.com/nholuongut/all-in-one-llm)
-- [Azure AI ](https://github.com/Azure/enterprise-azureai)
 
-### 🌱 I’m currently Pratices on 🇻
-- [Generative AI Operations Solution Accelerator](https://github.com/nholuongut/GenAIOps)
-- [Azure ML Service and Azure DevOps](https://github.com/nholuongut/DevOpsForAI)
-- [AI application using Azure](https://github.com/nholuongut/AI-application-with-DevOps)
+### 🔭 Current Focus & AI Initiatives
+- 🤖 [GenAIOps Solution Accelerator](https://github.com/nholuongut/GenAIOps)
+- 🧠 [MLOps References](https://github.com/nholuongut/MLOps-references)
+- 🚀 [Azure DevOps for AI](https://github.com/nholuongut/DevOpsForAI)
 
-### 📝 I regularly write articles on 🇻
-- [My Linkedin Recent Activity](https://www.linkedin.com/in/nholuong/recent-activity/all/)
+### 🏗️ Highlight Repositories
+- ➡️ [**devops-toolkit**](https://github.com/nholuongut/devops-toolkit): All-in-one DevOps environment.
+- ➡️ [**devsecops-demos**](https://github.com/nholuongut/devsecops-demos): Integrating security into CI/CD.
+- ➡️ [**kubernetes-labs**](https://github.com/nholuongut/kubernetes-labs): Practical K8s deployment samples.
+- ➡️ [**local-env**](https://github.com/nholuongut/local-env): Containerized multi-language dev environment.
 
 # **Project Architecture Overviews🇻**
 ![](https://i.imgur.com/waxVImv.png)
