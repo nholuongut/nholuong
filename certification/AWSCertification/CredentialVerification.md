@@ -22,8 +22,11 @@ Verification Code: "6576ec9fec174b8eafe8cb2658ddd2d7 "
 5.CLF-C02: AWS Certified Cloud Practitioner Certification
 Verification Code: "8cce4c97762e4b17974052250c616d90"
 
-6. AIF-C01: AWS Certified AI Practitioner
+6.AIF-C01: AWS Certified AI Practitioner
 Validation Code: "eb715edb805d46f6a353fc104fd1ec74"
+
+7.MLA-C01: AWS Certified Machine Learning Engineer - Associate
+Validation Code: "c2bca70cf63e46a6995a6f7eff34cf86"
 
 ```
 
