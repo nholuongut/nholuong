@@ -13,14 +13,17 @@ Verification Code: "119ee670510e4bb99fe2956152effb7e"
 2.SCS-C02: AWS Certified Security - Specialty Certification
 Verification Code: "546df3af01f24219ae712f6c5664a7b4 "
 
-3.DOP-C02 AWS Certified DevOps Engineer - Professional Certification
+3.DOP-C02: AWS Certified DevOps Engineer - Professional Certification
 Verification Code: "929afc663e7f48dc90b38114fdf8f908"
 
-4.SAA-C03 AWS Certified Solutions Architect - Associate Certification
+4.SAA-C03: AWS Certified Solutions Architect - Associate Certification
 Verification Code: "6576ec9fec174b8eafe8cb2658ddd2d7 "
 
-5.CLF-C02- AWS Certified Cloud Practitioner Certification
+5.CLF-C02: AWS Certified Cloud Practitioner Certification
 Verification Code: "8cce4c97762e4b17974052250c616d90"
+
+6. AIF-C01: AWS Certified AI Practitioner
+Validation Code: "eb715edb805d46f6a353fc104fd1ec74"
 
 ```
 
